@@ -31,7 +31,7 @@ Activate the UI theme by modifying your user preferences file, which you can fin
 
 ``` json
 {
-  "theme": "minimal-monokai.sublime-theme",
+  "theme": "minimal-monokai.sublime-theme"
 }
 ```
 
