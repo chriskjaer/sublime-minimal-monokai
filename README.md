@@ -26,7 +26,7 @@ git clone https://github.com/chriskjaer/sublime-minimal-monokai.git "sublime-min
 
 ### 2. Activate UI
 
-Activate the UI theme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>âŒ˜</kbd><kbd>,</kbd> on Mac).
+Activate the UI theme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
 
 
 ``` json
