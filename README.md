@@ -5,6 +5,7 @@
 
 A minimalistic Sublime UI for the Monokai theme. For the optimal experience I recommend the [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended) theme.
 
+![Minimal Monokai](https://raw.githubusercontent.com/chriskjaer/sublime-minimal-monokai/gh-pages/minimal-monokai.png)
 
 ## Getting Started
 
