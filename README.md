@@ -1,6 +1,6 @@
 # [Minimal Monokai](https://github.com/chriskjaer/sublime-minimal-monokai)
 
-> Enough Spacegray! It's time to get back to the good old trusty monokai: Where the colors are bright and the syntax highlightning [works properly](https://github.com/chriskempson/base16-builder/issues/60).
+> Enough Spacegray! It's time to get back to the good old trusty monokai: Where the colors are bright and the syntax highlighting [works properly](https://github.com/chriskempson/base16-builder/issues/60).
 
 
 A minimalistic Sublime UI for the Monokai theme. For the optimal experience I recommend the [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended) theme.
