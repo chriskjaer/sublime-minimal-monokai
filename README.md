@@ -35,3 +35,16 @@ Activate the UI theme by modifying your user preferences file, which you can fin
 ```
 
 ***Note: Sublime Text needs to be restarted after activating the theme.***
+
+## Author
+
+** Chris Kjær Sørensen **
+
++ [http://twitter.com/ckjaer](http://twitter.com/ckjaer)
++ [http://github.com/chriskjaer](http://github.com/chriskjaer)
+
+
+## Copyright and license
+Copyright Chris Kjær Sørensen 
+
+[MIT License](LICENSE-MIT)
