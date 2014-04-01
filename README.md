@@ -38,7 +38,7 @@ Activate the UI theme by modifying your user preferences file, which you can fin
 
 ## Author
 
-** Chris Kjær Sørensen **
+**Chris Kjær Sørensen**
 
 + [http://twitter.com/ckjaer](http://twitter.com/ckjaer)
 + [http://github.com/chriskjaer](http://github.com/chriskjaer)
